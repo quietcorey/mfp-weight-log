@@ -1,4 +1,4 @@
-# mfp-weight-log.py
+# mfp-weight-log
 A simple selenium-based scraper to collect a 1 year weight log from myfitnesspal.
 
 # Requires:
@@ -8,7 +8,7 @@ A simple selenium-based scraper to collect a 1 year weight log from myfitnesspal
 - [PhantomJS](http://phantomjs.org/download.html)
 
 # How to run:
-To run mfp-weight-log.py, simply install the dependencies and call:
+To run mfp_weight_log.py, simply install the dependencies and call:
 ```
 python mfp-weight-log.py -un username -pw password
 ```
